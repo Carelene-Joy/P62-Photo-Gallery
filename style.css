@@ -9,3 +9,15 @@
 #slide {
     width: 400px;
 }
+
+body {
+    text-align: center;
+    background-color:#00801c;
+    color: white;
+
+}
+
+.g {
+    width: 250px;
+    height: 200px;
+}
